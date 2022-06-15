@@ -1,0 +1,13 @@
+C:\Users\maxib\source\repos\Zadachi 19 mai\01. Basketball Equipment\bin\Debug\netcoreapp2.1\01. Basketball Equipment.deps.json
+C:\Users\maxib\source\repos\Zadachi 19 mai\01. Basketball Equipment\bin\Debug\netcoreapp2.1\01. Basketball Equipment.runtimeconfig.json
+C:\Users\maxib\source\repos\Zadachi 19 mai\01. Basketball Equipment\bin\Debug\netcoreapp2.1\01. Basketball Equipment.runtimeconfig.dev.json
+C:\Users\maxib\source\repos\Zadachi 19 mai\01. Basketball Equipment\bin\Debug\netcoreapp2.1\01. Basketball Equipment.dll
+C:\Users\maxib\source\repos\Zadachi 19 mai\01. Basketball Equipment\bin\Debug\netcoreapp2.1\01. Basketball Equipment.pdb
+C:\Users\maxib\source\repos\Zadachi 19 mai\01. Basketball Equipment\obj\Debug\netcoreapp2.1\01. Basketball Equipment.csproj.AssemblyReference.cache
+C:\Users\maxib\source\repos\Zadachi 19 mai\01. Basketball Equipment\obj\Debug\netcoreapp2.1\01. Basketball Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\source\repos\Zadachi 19 mai\01. Basketball Equipment\obj\Debug\netcoreapp2.1\01. Basketball Equipment.AssemblyInfoInputs.cache
+C:\Users\maxib\source\repos\Zadachi 19 mai\01. Basketball Equipment\obj\Debug\netcoreapp2.1\01. Basketball Equipment.AssemblyInfo.cs
+C:\Users\maxib\source\repos\Zadachi 19 mai\01. Basketball Equipment\obj\Debug\netcoreapp2.1\01. Basketball Equipment.csproj.CoreCompileInputs.cache
+C:\Users\maxib\source\repos\Zadachi 19 mai\01. Basketball Equipment\obj\Debug\netcoreapp2.1\01. Basketball Equipment.dll
+C:\Users\maxib\source\repos\Zadachi 19 mai\01. Basketball Equipment\obj\Debug\netcoreapp2.1\01. Basketball Equipment.pdb
+C:\Users\maxib\source\repos\Zadachi 19 mai\01. Basketball Equipment\obj\Debug\netcoreapp2.1\01. Basketball Equipment.genruntimeconfig.cache

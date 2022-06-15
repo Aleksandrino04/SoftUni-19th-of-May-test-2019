@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "qbC4AhWrJSjPyiNrkURx+1qB5qPfZNO9PBy4ivCGMUw0IWtTEqLeQtRRpQk1/1kEUF0YhgrtaWf/pVHiK3Nkrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maxib\\source\\repos\\Zadachi 19 mai\\03. World Snooker Championship\\03. World Snooker Championship.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxib\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\maxib\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\maxib\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\maxib\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\maxib\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\maxib\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\maxib\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

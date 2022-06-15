@@ -1,0 +1,13 @@
+C:\Users\maxib\source\repos\Zadachi 19 mai\04. Darts\bin\Debug\netcoreapp2.1\04. Darts.deps.json
+C:\Users\maxib\source\repos\Zadachi 19 mai\04. Darts\bin\Debug\netcoreapp2.1\04. Darts.runtimeconfig.json
+C:\Users\maxib\source\repos\Zadachi 19 mai\04. Darts\bin\Debug\netcoreapp2.1\04. Darts.runtimeconfig.dev.json
+C:\Users\maxib\source\repos\Zadachi 19 mai\04. Darts\bin\Debug\netcoreapp2.1\04. Darts.dll
+C:\Users\maxib\source\repos\Zadachi 19 mai\04. Darts\bin\Debug\netcoreapp2.1\04. Darts.pdb
+C:\Users\maxib\source\repos\Zadachi 19 mai\04. Darts\obj\Debug\netcoreapp2.1\04. Darts.csproj.AssemblyReference.cache
+C:\Users\maxib\source\repos\Zadachi 19 mai\04. Darts\obj\Debug\netcoreapp2.1\04. Darts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\source\repos\Zadachi 19 mai\04. Darts\obj\Debug\netcoreapp2.1\04. Darts.AssemblyInfoInputs.cache
+C:\Users\maxib\source\repos\Zadachi 19 mai\04. Darts\obj\Debug\netcoreapp2.1\04. Darts.AssemblyInfo.cs
+C:\Users\maxib\source\repos\Zadachi 19 mai\04. Darts\obj\Debug\netcoreapp2.1\04. Darts.csproj.CoreCompileInputs.cache
+C:\Users\maxib\source\repos\Zadachi 19 mai\04. Darts\obj\Debug\netcoreapp2.1\04. Darts.dll
+C:\Users\maxib\source\repos\Zadachi 19 mai\04. Darts\obj\Debug\netcoreapp2.1\04. Darts.pdb
+C:\Users\maxib\source\repos\Zadachi 19 mai\04. Darts\obj\Debug\netcoreapp2.1\04. Darts.genruntimeconfig.cache

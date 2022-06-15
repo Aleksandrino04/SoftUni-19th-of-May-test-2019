@@ -1,0 +1,13 @@
+C:\Users\maxib\source\repos\Zadachi 19 mai\03. World Snooker Championship\bin\Debug\netcoreapp2.1\03. World Snooker Championship.deps.json
+C:\Users\maxib\source\repos\Zadachi 19 mai\03. World Snooker Championship\bin\Debug\netcoreapp2.1\03. World Snooker Championship.runtimeconfig.json
+C:\Users\maxib\source\repos\Zadachi 19 mai\03. World Snooker Championship\bin\Debug\netcoreapp2.1\03. World Snooker Championship.runtimeconfig.dev.json
+C:\Users\maxib\source\repos\Zadachi 19 mai\03. World Snooker Championship\bin\Debug\netcoreapp2.1\03. World Snooker Championship.dll
+C:\Users\maxib\source\repos\Zadachi 19 mai\03. World Snooker Championship\bin\Debug\netcoreapp2.1\03. World Snooker Championship.pdb
+C:\Users\maxib\source\repos\Zadachi 19 mai\03. World Snooker Championship\obj\Debug\netcoreapp2.1\03. World Snooker Championship.csproj.AssemblyReference.cache
+C:\Users\maxib\source\repos\Zadachi 19 mai\03. World Snooker Championship\obj\Debug\netcoreapp2.1\03. World Snooker Championship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\source\repos\Zadachi 19 mai\03. World Snooker Championship\obj\Debug\netcoreapp2.1\03. World Snooker Championship.AssemblyInfoInputs.cache
+C:\Users\maxib\source\repos\Zadachi 19 mai\03. World Snooker Championship\obj\Debug\netcoreapp2.1\03. World Snooker Championship.AssemblyInfo.cs
+C:\Users\maxib\source\repos\Zadachi 19 mai\03. World Snooker Championship\obj\Debug\netcoreapp2.1\03. World Snooker Championship.csproj.CoreCompileInputs.cache
+C:\Users\maxib\source\repos\Zadachi 19 mai\03. World Snooker Championship\obj\Debug\netcoreapp2.1\03. World Snooker Championship.dll
+C:\Users\maxib\source\repos\Zadachi 19 mai\03. World Snooker Championship\obj\Debug\netcoreapp2.1\03. World Snooker Championship.pdb
+C:\Users\maxib\source\repos\Zadachi 19 mai\03. World Snooker Championship\obj\Debug\netcoreapp2.1\03. World Snooker Championship.genruntimeconfig.cache

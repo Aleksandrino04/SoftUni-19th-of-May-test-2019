@@ -1,0 +1,13 @@
+C:\Users\maxib\source\repos\Zadachi 19 mai\02. Skeleton\bin\Debug\netcoreapp2.1\02. Skeleton.deps.json
+C:\Users\maxib\source\repos\Zadachi 19 mai\02. Skeleton\bin\Debug\netcoreapp2.1\02. Skeleton.runtimeconfig.json
+C:\Users\maxib\source\repos\Zadachi 19 mai\02. Skeleton\bin\Debug\netcoreapp2.1\02. Skeleton.runtimeconfig.dev.json
+C:\Users\maxib\source\repos\Zadachi 19 mai\02. Skeleton\bin\Debug\netcoreapp2.1\02. Skeleton.dll
+C:\Users\maxib\source\repos\Zadachi 19 mai\02. Skeleton\bin\Debug\netcoreapp2.1\02. Skeleton.pdb
+C:\Users\maxib\source\repos\Zadachi 19 mai\02. Skeleton\obj\Debug\netcoreapp2.1\02. Skeleton.csproj.AssemblyReference.cache
+C:\Users\maxib\source\repos\Zadachi 19 mai\02. Skeleton\obj\Debug\netcoreapp2.1\02. Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\source\repos\Zadachi 19 mai\02. Skeleton\obj\Debug\netcoreapp2.1\02. Skeleton.AssemblyInfoInputs.cache
+C:\Users\maxib\source\repos\Zadachi 19 mai\02. Skeleton\obj\Debug\netcoreapp2.1\02. Skeleton.AssemblyInfo.cs
+C:\Users\maxib\source\repos\Zadachi 19 mai\02. Skeleton\obj\Debug\netcoreapp2.1\02. Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\maxib\source\repos\Zadachi 19 mai\02. Skeleton\obj\Debug\netcoreapp2.1\02. Skeleton.dll
+C:\Users\maxib\source\repos\Zadachi 19 mai\02. Skeleton\obj\Debug\netcoreapp2.1\02. Skeleton.pdb
+C:\Users\maxib\source\repos\Zadachi 19 mai\02. Skeleton\obj\Debug\netcoreapp2.1\02. Skeleton.genruntimeconfig.cache
